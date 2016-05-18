@@ -34,6 +34,7 @@ games.push(Game('Train Memory','http://www.stampsmarter.com/aps/trains/index.php
 games.push(Game('Chinese Zodiac Memory','http://www.stampsmarter.com/aps/zodiac/index.php','Chinese Themed zodiac memory game'))
 games.push(Game('Flower Memory','http://www.stampsmarter.com/aps/flowers/index.php','Flower themed memory'))
 games.push(Game('Dinosaur Memory','http://www.stampsmarter.com/aps/dinos/index.php','Dinosaur themed memory'))
+games.push(Game('Philatelist Face-off','https://peaceful-sea-34150.herokuapp.com/#/','Stamp trivia game with multiple topics.'))
 // games.push(Game('','',''))
 
 var gameList = document.getElementById('gameList')
