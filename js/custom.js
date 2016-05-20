@@ -36,7 +36,7 @@ games.push(Game('Flower Memory','http://www.stampsmarter.com/aps/flowers/index.p
 games.push(Game('Dinosaur Memory','http://www.stampsmarter.com/aps/dinos/index.php','Dinosaur themed memory'))
 games.push(Game('Philatelist Face-off','https://peaceful-sea-34150.herokuapp.com/#/','Stamp trivia game with multiple topics.'))
 games.push(Game('Stampy Bird','http://robertonovelo.github.io/Stampy-Bird/','Stamp version of Flappy bird. Get the stamp through the blockades.'))
-
+games.push(Game('Stamp the State','https://stamp-games.github.io/match_states/','Match the stamp to the image of the US state.'))
 var gameList = document.getElementById('gameList')
 for(var game in games){
 	if (games[game].image){
