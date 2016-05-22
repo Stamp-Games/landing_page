@@ -9,7 +9,7 @@ function Game(name,url,desc,image){
 	}
 }
 // to add an image, add the URL as the last parameter
-games.push(Game9('Memory and Tetris games','http://www.stampsmarter.com/aps/games.html','Various themes of Memory, crosswords, and stamp Tetris'))
+games.push(Game('Memory and Tetris games','http://www.stampsmarter.com/aps/games.html','Various themes of Memory, crosswords, and stamp Tetris'))
 games.push(Game('Color Your Own Stamp','http://postalmuseum.si.edu/activity/coloraway/index.html','Want to design your own stamp? Check out these examples and become the next Picasso! '))
 games.push(Game('Decode the Mail!','http://postalmuseum.si.edu/activities/games/decode-the-barcode.html','Can you crack the code and get mail where it\'s going?'))
 games.push(Game('US Stamp Quiz','http://www.funtrivia.com/playquiz/quiz2544751d22a30.html','Do you know the answers to these ten stamp questions?'))
