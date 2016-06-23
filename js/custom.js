@@ -1,5 +1,6 @@
 var games = [];
 var image = $('.hide').html();
+// You should fix this
 function Game(name,url,desc,image){
 	return {
 		name:name,
